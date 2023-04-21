@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\app_BackEnd_PUC"
+    "\\app_BackEnd_PUC",
+    "\\app_BackEnd_PUC\\Models"
   ],
+  "SelectedNode": "\\app_BackEnd_PUC\\Models",
   "PreviewInSolutionExplorer": false
 }

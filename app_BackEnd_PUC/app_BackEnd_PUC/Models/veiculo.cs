@@ -10,7 +10,7 @@ namespace app_BackEnd_PUC.Models
     [Table("veiculos")]
     public class veiculo
     {
-        [key]
+        [Key]
         public int Id { get; set; }
 
         [Required(ErrorMessage = "Obrigatório informar o nome!")]
